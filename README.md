@@ -1,13 +1,13 @@
 # DSS5104_Group19
 
-Deep Learning for Time-Series Forecasting
-DSS5104
-Overview
+Deep Learning for Time-Series Forecasting  
+DSS5104  
+Overview  
 The goal of this assignment is to critically explore and evaluate recent deep learning methods for time-series prediction. While classical models like ARIMA, Prophet, and gradient boosting have long been standard for temporal forecasting, deep learning architectures, particularly those designed for sequential modeling, Deep Learning models have shown increasing promise, althoug it is still not clear if they are the best choice for all time-series problems.
 
 In this assignment, you will evaluate the performance, scalability, and robustness of a selection of modern deep learning methods using publicly available implementations on a variety of real-world time-series forecasting tasks. You are not expected to implement models from scratch but must demonstrate an understanding of their proper application.
 
-Assignment Objectives
+Assignment Objectives  
 Understand and apply recent deep learning models for time-series forecasting
 Benchmark their performance on multiple datasets
 Compare them against classical baselines that do not use deep learning
